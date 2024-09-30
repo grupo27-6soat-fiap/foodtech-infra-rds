@@ -2,7 +2,7 @@
 # Foodtech Infra RDS
 
 Este repositório contém a infraestrutura necessária para provisionar um banco de dados Amazon RDS para o projeto Foodtech usando Terraform. O projeto utiliza módulos para organização dos recursos de segurança, sub-redes, e instâncias de banco de dados.
-
+ 
 ## Estrutura do Projeto
 
 A estrutura de diretórios é organizada da seguinte forma:
